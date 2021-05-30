@@ -1,6 +1,6 @@
 # medical_flutter
 
-A new Flutter project.
+A new  Medical Flutter project.
 
 ## Getting Started
 
